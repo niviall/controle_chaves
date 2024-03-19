@@ -1,5 +1,5 @@
 # Controle_chaves
-# Projeto de disciplina de Análise e projeto de sistemas.
+Projeto de disciplina de Análise e projeto de sistemas.
 # Equipe
 |nome|Reponsabilidade|E-mail|GitHub|
 |----|---------------|------|------|
